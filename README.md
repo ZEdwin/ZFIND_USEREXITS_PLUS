@@ -12,5 +12,4 @@ What I did, is (hopefully) improve it a bit here and there. Next to cosmetic cha
 Anyway, I packed it into a SAPLINK nugget file and uploaded it here for future reference.
 
 @Pete Atkins: 
-I hope you don't mind and if you do... Let me know.
-I'll take this offline ASAP, if you do not agree.
+Thanks for this program! It's a huge extension to the default one.
